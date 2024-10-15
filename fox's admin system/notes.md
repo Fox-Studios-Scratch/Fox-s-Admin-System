@@ -1,0 +1,1 @@
+Ban/Mute/Rank Tracking: For persistent commands like ban, mute, or setting ranks, datastores are needed to track these across server session. please add them asap!
